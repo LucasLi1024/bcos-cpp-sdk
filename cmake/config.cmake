@@ -18,8 +18,8 @@ hunter_config(bcos-utilities VERSION 3.0.0-rc2-local
 
 hunter_config(bcos-boostssl
 	VERSION 3.0.0-local
-	URL https://${URL_BASE}/FISCO-BCOS/bcos-boostssl/archive/077b2a1f137dcb865c5cb3541d92ecd4dc1f78cf.tar.gz
-	SHA1 18d4c241161db23398702f0a481f85947fc27241
+	URL https://github.com/LucasLi1024/bcos-boostssl/archive/29f0e40a11a7abe8729143e1c09c5305e3b45cf8.tar.gz
+	SHA1 71ce2c8dac4087fd1399c2bf9ef004085e7f97e2
 )
 
 
